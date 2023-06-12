@@ -1,12 +1,17 @@
 ## Índice
 
 1. **[Introducción](#introduccion)**<br>
-2. **[FrontEnd](#frontend)**<br>
-3. **[Documentación](#documentacion)**<br>
+2. **[Arquitectura](#arquitectura)**<br>
+3. **[FrontEnd](#frontend)**<br>
+4. **[Documentación](#documentacion)**<br>
 
 ## Introducción <a name="introduccion"></a>
 
 Proyecto frontend y documentación del proyecto
+
+## Arquitectura <a name="Arquitectura"></a>
+
+<img src="https://github.com/userinternet123/onboarding_frontend/blob/main/Documentaci%C3%B3n/ArquitecturaEva.png">
 
 ## FrontEnd <a name="frontend"></a>
 
@@ -37,3 +42,5 @@ MIT
 [reacttoastify]: https://www.npmjs.com/package/react-toastify
 
 ## Documentación <a name="documentacion"></a>
+
+[Documentación](https://github.com/userinternet123/onboarding_frontend/tree/main/Documentaci%C3%B3n)
