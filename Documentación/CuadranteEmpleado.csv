@@ -1,0 +1,10 @@
+IdColaborador,NombreColaborador,DPIColaborador,FechaIngreso,FechaAlta,IdPuesto,NombrePuesto,IdArea,NombreArea,FechaEvaluacion,FechaVencimiento,Realizado,NumeroEvaluacion,PuntuacionTotalSkill,EscalaTecnica,PuntuacionTotalWill,EscalaConductual,ResultadoFinal,Cuadrante,Matriz
+1,María Regina Nájera Rodríguez,4.55863E+12,00:00.0,00:00.0,1,Gestor de Proyectos,1,Compensaciones y Beneficios,00:00.0,00:00.0,1,1,84,2,66,1,108,12,Acompañamiento
+2,Carlos Estuardo Barahona Castellanos,5.70928E+12,00:00.0,00:00.0,2,Gestor de Proyectos,2,Tecnología de la Información,00:00.0,00:00.0,1,1,100,3,100,3,150,33,OnBoarding
+3,Luis Roberto Aragon Jimenez,7.10645E+12,00:00.0,00:00.0,3,Gestor de Proyectos,3,Aseguramiento de la Calidad,00:00.0,00:00.0,0,1,13,0,25,0,31,0,Desvincular
+10,Guilder Rocael Fuentes Miranda,4.53265E+12,00:00.0,00:00.0,10,Coordinador,2,Tecnología de la Información,00:00.0,00:00.0,1,1,90,3,84,2,129,23,OnBoarding
+11,Carlos Armando Vásquez Juan,7.8616E+12,00:00.0,00:00.0,11,Coordinador,3,Aseguramiento de la Calidad,00:00.0,00:00.0,1,1,89,2,89,2,133,22,OnBoarding
+12,Fredy Rufino Ochoa Victorio,1.77238E+12,00:00.0,00:00.0,12,Coordinador,4,Gestión de Talento,00:00.0,00:00.0,1,1,73,2,89,2,125,22,OnBoarding
+13,Carlos Enrique Sazo,8.6655E+12,00:00.0,00:00.0,1,Gestor de Proyectos,1,Compensaciones y Beneficios,00:00.0,00:00.0,1,1,82,2,89,2,130,22,OnBoarding
+14,Jonathan René Villavicencio Soto,8.42037E+12,00:00.0,00:00.0,2,Gestor de Proyectos,2,Tecnología de la Información,00:00.0,00:00.0,1,1,90,3,89,2,134,23,OnBoarding
+15,Marco Tulio Alegría López,4.56739E+12,00:00.0,00:00.0,3,Gestor de Proyectos,3,Aseguramiento de la Calidad,00:00.0,00:00.0,1,1,86,2,89,2,132,22,OnBoarding
